@@ -63,6 +63,8 @@ merge pull request
 
 First, you need a GitHub account. If you haven't got one, create one now. For the username use the naming convention: \<firstname\>\<surname\>AH e.g. `RichardSteeleAH`.
 
+For write access to Allen & Heath repositories you will need to be added to the organisation, and then to the *GitPracticeTeam* team. Ask your line manager for this or send me a message and I can chase this up for you. As this is a public repo, you will be able to work from it in the meantime, but you won't be able to push any changes in the upcoming steps.
+
 Next we need to do some setup on your machine. The following is for Windows environments. Linux and macOS are very similar though.
 
 If you do not have Git installed already then go to https://git-scm.com/install/ and download the latest stable release for Windows. I can't remember the options it gives you but if given the option then make sure you include *Git bash* with your install.
