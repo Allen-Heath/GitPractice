@@ -2,5 +2,10 @@
 
 int MathLib::AddInts(int A, int B)
 {
-    return 0;
+    return A + B;
+}
+
+float MathLib::AddFloats(float A, float B)
+{
+    return A + B;
 }
