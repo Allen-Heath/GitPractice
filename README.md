@@ -71,7 +71,7 @@ If you do not have Git installed already then go to https://git-scm.com/install/
 
 For security we will be using **SSH keys**. Add one now.
 
-To generate a key, right click anywhere, choose *Show more options*, and click *Open Git Bash Here*:
+To generate a key, right click anywhere, choose *Show more options*, and click *Open Git Bash Here*. Type the following command and press Enter repeatedly to accept the default options:
 
 ```
 # Generate a key and save it to the default location with the default options
@@ -149,9 +149,12 @@ git branch
 To create and switch to a new safe working branch:
 
 ```
-# `-b` creates a new branch from your current state, WorkingBranch is a name I made up, make your own up if you want
+# `-b` creates a new branch from your current state, RichSteele_WorkingBranch is a name I made up, make your own up if you want
 
-git checkout -b WorkingBranch
+git checkout -b <YourName>_WorkingBranch
+
+# e.g.
+# git checkout -b RichSteele_WorkingBranch
 ```
 
 Check again with:
@@ -383,7 +386,7 @@ git checkout -b MyNewBranch
 or update an existing one:
 
 ```
-git checkout WorkingBranch
+git checkout RichSteele_WorkingBranch
 git merge main
 ```
 
