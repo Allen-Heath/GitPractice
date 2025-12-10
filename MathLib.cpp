@@ -2,5 +2,5 @@
 
 int MathLib::AddInts(int A, int B)
 {
-    return A + B;
+    return A + B;;
 }
