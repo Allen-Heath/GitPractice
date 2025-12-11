@@ -192,7 +192,7 @@ Open the Source Control sidebar (three circles with lines). In the top bar you'l
 
 The other useful control here is the **Show Remote Branches** toggle to display or hide other developers' branches that exist on GitHub.
 
-I recommend keeping a VS Code window open with Git Graph even if you code in another IDE. If you go to the top menu bar and click **Terminal → New Terminal** then you can get a bash window below to type in future Git commands.
+I recommend keeping a VS Code window open with Git Graph even if you code in another IDE. If you go to the top menu bar and click **Terminal → New Terminal** then you can get a bash window below to type in future Git commands. Make sure you select **Bash** not powershell etc in the dropdown choices or your environment will get a bit confused.
 
 Finally set up your Git identity:
 
