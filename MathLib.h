@@ -5,7 +5,6 @@ class MathLib
 {
 public:
     static int AddInts(int A, int B);
-    static int SubtractInt(int A, int B);
 }
 
 #endif // mathlib_h
