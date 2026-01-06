@@ -307,11 +307,11 @@ Give it:
    + If you have made good commit messages so far, this can often be a collection or summary of just those commit messages
 -   Check the "Files changed" tab
 
-Submit it. Now anyone can review it, comment, request changes, or approve. When working on project we can request reviewers on the PR page, word of mouth, or simply by seeing which PRs are currently pending. I have left a PR pending at https://github.com/Allen-Heath/GitPractice/pulls. Go there and leave a comment on it. Approve it if you think it's ready to merge in. To start a review go to the Files Changed tab on that pull request page. You can comment on any line by hovering over a line and clicking the blue `+` button, start a review, request changes, or approve with the green review button in the upper right.
+Submit it. Now anyone can review it, comment, request changes, or approve. When working on project we can request reviewers on the PR page, word of mouth, or simply by seeing which PRs are currently pending. I have left a PR pending at https://github.com/Allen-Heath/GitPractice/pulls. Go there and leave a comment on it. Approve it if you think it's ready to merge in. Don't actually merge it in though. Your responsibility is **only** to approve or request changes for other developers' PRs. The person who created the PR is responsible for the final merge. To start a review go to the Files Changed tab on that pull request page. You can comment on any line by hovering over a line and clicking the blue `+` button, start a review, request changes, or approve with the green review button in the upper right.
 
 PR review is normal and healthy. It is how quality is maintained.
 
-Once approved by someone, it is your responsibility to merge in your own pull request. You will have recieved an email when your PR is approved with a link to the PR itself. Go there and click merge. Now main has your changes.
+Once approved by someone, it is your responsibility to merge in your own pull request. You will have recieved an email when your PR is approved with a link to the PR itself. When that happens go there and click merge. Now main has your changes.
 
 The branch you were working on has served it's purpose and you can delete it. After merging GitHub will prompt this for you.
 
